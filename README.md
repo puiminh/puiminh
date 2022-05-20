@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bùi Minh</h1>
 <h3 align="center">A passionate web developer from Vietnam 🇻🇳</h3>
 
+<img align="right" alt="Coding" width="400" src="https://scontent.fhan3-5.fna.fbcdn.net/v/t1.6435-9/101395254_2504249803221135_8805050854181158393_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=aUnS7xYo92kAX8gNbqp&_nc_ht=scontent.fhan3-5.fna&oh=00_AT8H9fOCaubYLlbjZoUU7bNt46-hgroOGURyYQEnvMhY6A&oe=62AC8A6F">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puiminh&label=Profile%20views&color=0e75b6&style=flat" alt="puiminh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/buiminhdesu" target="blank"><img src="https://img.shields.io/twitter/follow/buiminhdesu?logo=twitter&style=for-the-badge" alt="buiminhdesu" /></a> </p>
